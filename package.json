@@ -46,6 +46,8 @@
     "postcss-normalize": "7.0.1",
     "postcss-preset-env": "6.7.0",
     "postcss-safe-parser": "4.0.1",
+    "monaco-editor": "^0.17.1",
+    "monaco-editor-webpack-plugin": "^1.7.0",
     "react": "^16.9.0",
     "react-app-polyfill": "^1.0.2",
     "react-dev-utils": "^9.0.3",
@@ -57,12 +59,14 @@
     "style-loader": "1.0.0",
     "terser-webpack-plugin": "1.4.1",
     "ts-pnp": "1.1.2",
-    "typescript": "3.6.3",
     "url-loader": "2.1.0",
     "webpack": "4.39.1",
     "webpack-dev-server": "3.2.1",
     "webpack-manifest-plugin": "2.0.4",
-    "workbox-webpack-plugin": "4.3.1"
+    "workbox-webpack-plugin": "4.3.1",
+    "react-monaco-editor": "^0.31.0",
+    "react-scripts": "3.1.1",
+    "typescript": "3.6.3"
   },
   "scripts": {
     "start": "node scripts/start.js",
